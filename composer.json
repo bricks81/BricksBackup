@@ -1,0 +1,20 @@
+{
+    "name": "bricks81/bricks-backup",
+    "description": "Bricks CMS Framework - Backup",
+    "license": "MIT",
+    "keywords": [
+        "bricks",
+        "backup"
+    ],
+    "homepage": "https://www.bricks-cms.org",
+    "autoload": {
+        "psr-4": {
+            "Bricks\\User\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false    
+}
