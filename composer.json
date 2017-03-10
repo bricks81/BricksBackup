@@ -14,8 +14,8 @@
     },
     "require": {
         "php": "^7.0",
-        "bricks81/bricks-config":"*",
-        "bricks81/bricks-loader":"*"
+        "bricks81/bricks-config":"dev-master",
+        "bricks81/bricks-loader":"dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": false    
