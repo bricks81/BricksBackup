@@ -9,7 +9,7 @@
     "homepage": "https://www.bricks-cms.org",
     "autoload": {
         "psr-4": {
-            "Bricks\\User\\": "src/"
+            "Bricks\\Backup\\": "src/"
         }
     },
     "require": {
